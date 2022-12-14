@@ -1,3 +1,3 @@
 # Neural Networks for Handwritten Digit Recognition
 
-Handwritten digits recognizer using keras tensorflow
+A neural network that is capable of recognizeing handwritten digits. The algorithm is implemented using keras.
